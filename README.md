@@ -1,8 +1,14 @@
 # Jetpack Compose Animate AppTopBar
 
-<video id="video" controls="controls" muted="muted" style="height:380px;">
-<source id="webm" src="https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.webm?raw=true" type="video/webm">
-</videos>
+https://user-images.githubusercontent.com/2387680/157795117-3a343625-4a34-4303-bb28-d2deea7f9b68.mp4
+
+https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.webm?raw=true
+
+[comment]: <> (<video id="video" controls="controls" muted="muted" style="height:380px;">)
+
+[comment]: <> (<source id="webm" src="https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.webm?raw=true" type="video/webm">)
+
+[comment]: <> (</videos>)
 
 Before we build app used is page to page mode,page strong sense of separation,so i want to change my mind,app just app,no matter which page,users only focus on data.
 
