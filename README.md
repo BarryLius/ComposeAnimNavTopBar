@@ -1,15 +1,7 @@
 # Jetpack Compose Animate AppTopBar
 
-<iframe
-src="https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.mp4?raw=true"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-height=480
->
-</iframe>
 
+<image>
 
 Before we build app used is page to page mode,page strong sense of separation,so i want to change my mind,app just app,no matter which page,users only focus on data.
 
