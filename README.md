@@ -1,6 +1,7 @@
 # Jetpack Compose Animate AppTopBar
 
-<img src="https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.gif?raw=true" width="270"/>
+[comment]: <> (<img src="https://github.com/BarryLius/ComposeAnimNavTopBar/blob/master/video/example.gif?raw=true" width="270"/>)
+https://user-images.githubusercontent.com/16166496/163168809-8891b0c2-5f8d-466b-ad45-087c0fe52de6.mp4
 
 Before we build app used is page to page mode,page strong sense of separation,so i want to change my mind,app just app,no matter which page,users only focus on data.
 
